@@ -42,7 +42,7 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
  <img src= "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40"/>
 </p>
 
-  ---
+ ---
 
 ## 📫 How to Reach Me
 
