@@ -27,7 +27,7 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
 ## 💼 What I’ve Working On
 
 * 📊 Built **interactive dashboards** using Power BI
-* 🧠 Performed **data analysis using SQL & Python**
+* 🧠 Performed **data analysis using Excel SQL & Python**
 * 📈 Worked on **data cleaning, transformation, and visualization**
 
 ## 🛠️ Tools & Technologies
