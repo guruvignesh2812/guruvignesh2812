@@ -32,18 +32,13 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
 
 ## 🛠️ Tools & Technologies
 
-### 📊 Data Analysis
-
-* Excel
-* SQL (MySQL)
-* Python (Pandas, NumPy)
-* Power BI
-
-###   Other Skills
-
-* Data Cleaning & Preprocessing
-* Dashboard Design
-* Turning Insights into Driven Decision 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 ---
 
 ## 📫 How to Reach Me
