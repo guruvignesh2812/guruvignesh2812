@@ -24,7 +24,6 @@ I’m an aspiring **Data Analyst**, currently building strong skills in data ana
 Previously, I worked as a **Digital Marketing Analyst**, where I gained experience analyzing campaign performance and user behavior.
 Now, I focus on turning raw data into **clear insights and business decisions**.
 
----
 
 ##  What I’ve Working On
 
