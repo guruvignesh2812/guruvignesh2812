@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Guru Vignesh
 
-## 🚀 Who I Am
+## ⭐ Who I Am
 
 I’m an aspiring **Data Analyst**, currently building strong skills in data analysis and visualization.
 Previously, I worked as a **Digital Marketing Analyst**, where I gained experience analyzing campaign performance and user behavior.
@@ -24,7 +24,7 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
 
 ---
 
-## 💼 What I’ve Working On
+##  What I’ve Working On
 
 * 📊 Built **interactive dashboards** using Power BI
 * 🧠 Performed **data analysis using Excel SQL & Python**
@@ -39,7 +39,7 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
 * Python (Pandas, NumPy)
 * Power BI
 
-### ⚙️ Other Skills
+###   Other Skills
 
 * Data Cleaning & Preprocessing
 * Dashboard Design
@@ -51,7 +51,7 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
 * 💼 LinkedIn: https://www.linkedin.com/in/guru-vignesh-4224a0322/
 * 🌐 Portfolio:https://guruvignesh2812.github.io/portfolio.io/
 
----
+  ---
 
 ## ⚡ Quick Note
 
