@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Guru Vignesh
-
-## ⭐ Who I Am
-<img align="right" alt="Coding and Data" style="margin-top: -20px;" width="330"
+                             <img align="right" alt="Coding and Data"  width="330"
 src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+## ⭐ Who I Am
 
 I’m an aspiring **Data Analyst**, currently building strong skills in data analysis and visualization.
 Previously, I worked as a **Digital Marketing Analyst**, where I gained experience analyzing campaign performance and user behavior.
