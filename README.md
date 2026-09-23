@@ -38,37 +38,18 @@ Now, I’m focused on transforming raw datasets into
 ---
 
 <h3>📊 What I Work With</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+ <img src= "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40"/>
+</p>
 
-<table>
-<tr>
-<td>🐍 Python</td>
-<td>🗄️ SQL</td>
-<td>📊 Data Analysis</td>
-</tr>
-<tr>
-<td>🐼 Pandas</td>
-<td>🔢 NumPy</td>
-<td>🔍 EDA</td>
-</tr>
-<tr>
-<td>📈 Power BI</td>
-<td>📗 Excel</td>
-<td>📉 Data Visualization</td>
-</tr>
-</table>
 
 ---
 
-<h3>💬 Ask Me About</h3>
-
-<ul>
-  <li>Python</li>
-  <li>SQL</li>
-  <li>Data Analysis</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Power BI</li>
-  <li>Data Visualization</li>
-</ul>
 
 ---
 
@@ -93,58 +74,6 @@ Now, I’m focused on transforming raw datasets into
   <a href="https://guruvignesh2812.github.io/portfolio.io/">
     Portfolio Website
   </a>
-</p>
-
----
-
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    width="45"
-    alt="Python"
-  />
-  &nbsp;&nbsp;
-
-<img 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
- width="45"
- alt="MySQL"
-/>
-  
-
-<img 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
- width="45"
- alt="Pandas"
-/>
-  
-
-<img 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
- width="45"
- alt="NumPy"
-/>
-  
-
-<img 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
- width="45"
- alt="Git"
-/>
-
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    alt="Data Analytics Animation"
-    width="420"
-    style="max-width:100%; height:auto;"
-  />
 </p>
 
 ---
