@@ -84,6 +84,10 @@ Now, I’m focused on transforming raw datasets into
   <b>Data → Analysis → Insights → Business Decisions</b>
 </p>
 
+
 <p align="center">
-  🚀 Currently building projects and strengthening my Data Analytics skills.
+  🚀 Currently looking for opportunities, building projects and strengthening my Data Analytics skills.
 </p>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Data Analytics Animation" width="420" style="max-width:100%; height:auto;" /> </p>
+
