@@ -12,8 +12,8 @@ Now, I focus on turning raw data into **clear insights and business decisions**.
 Always learning. Always improving. 🚀
 
     </td>
-    <td width="35%" align="center">
-      <img alt="Coding and Data" width="160%"
+    <td width="35" align="center">
+      <img alt="Coding and Data" width="160"
       src="https://raw.githubusercontent.com/vaishnavig1020/vaishnavig1020/main/assets/coding.gif"/>
     </td>
   </tr>
