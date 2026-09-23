@@ -18,9 +18,6 @@
 <p>
 I’m an aspiring <b>Data Analyst</b>, currently building strong skills in 
 <b>Python, SQL, data analysis, and visualization</b>.
-</p>
-
-<p>
 Previously, I worked as a <b>Digital Marketing Analyst</b>, where I gained 
 hands-on experience analyzing campaign performance, user behavior, and 
 business data.
